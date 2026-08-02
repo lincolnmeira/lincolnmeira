@@ -1,7 +1,9 @@
 ### Lincoln Meira de Santana
 
 🎓 Ciências Exatas e Tecnológicas (UFRB) | Eng. Computação - 8º semestre
+
 ⚡ Stack: Python • Java • ML • Arduino
+
 🔗 [LinkedIn](https://www.linkedin.com/in/lincoln-meira-de-santana-713928241/)
 
 ---
