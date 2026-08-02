@@ -1,16 +1,13 @@
-## Hi there 👋
+### Lincoln Meira de Santana
 
-<!--
-**lincolnmeira/lincolnmeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ciências Exatas e Tecnológicas (UFRB) | Eng. Computação - 8º semestre
+⚡ Stack: Python • Java • ML • Arduino
+🔗 [LinkedIn](https://www.linkedin.com/in/lincoln-meira-de-santana-713928241/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projeto em destaque
+
+**[MLP para Predição de Evasão Escolar — UFRB](https://github.com/LincolnShow12/mlp-evasao-ufrb)**
+Rede neural multicamadas (MLP) para prever evasão de alunos, com AUC-ROC de 0,943 no conjunto de teste — superando baselines de Random Forest e ANN reportados na literatura.
+
