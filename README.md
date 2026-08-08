@@ -2,7 +2,7 @@
 
 🎓 Ciências Exatas e Tecnológicas (UFRB) | Eng. Computação - 8º semestre
 
-⚡ Stack: Python • Java • ML • Arduino
+⚡[![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css,arduino,git)](https://skillicons.dev)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/lincoln-meira-de-santana-713928241/)
 
