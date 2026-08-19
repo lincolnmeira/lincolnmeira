@@ -1,5 +1,6 @@
 ### Lincoln Meira de Santana
-🎓 Ciências Exatas e Tecnológicas (UFRB) | Eng. Computação - 8º semestre
+🎓 Ciências Exatas e Tecnológicas (UFRB) | **Estudante de Engenharia de Computação | Machine Learning & Inteligência Artificial | Python | Ciência de Dados | Redes Neurais**
+
 
 ### 🛠️ Stack
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css,arduino)](https://skillicons.dev)
