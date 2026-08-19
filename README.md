@@ -1,5 +1,5 @@
 ### Lincoln Meira de Santana
-🎓 Ciências Exatas e Tecnológicas (UFRB) | **Estudante de Engenharia de Computação | Machine Learning & Inteligência Artificial | Python | Ciência de Dados | Redes Neurais**
+🎓 **Estudante de Engenharia de Computação | Machine Learning & Inteligência Artificial | Python | Ciência de Dados | Redes Neurais**
 
 
 ### 🛠️ Stack
